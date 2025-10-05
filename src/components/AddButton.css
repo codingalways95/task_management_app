@@ -1,0 +1,22 @@
+.fab {
+    position: fixed;
+    right: 28px;
+    bottom: 28px;
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: linear-gradient(180deg, #0680e6, #004a9b);
+    color: white;
+    font-size: 34px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 10px 30px rgba(4, 35, 92, 0.25);
+    z-index: 80;
+}
+
+.fab:active {
+    transform: translateY(2px);
+}

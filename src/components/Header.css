@@ -1,0 +1,15 @@
+.app-header {
+    background: var(--blue);
+    color: white;
+    padding: 8px 22px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 4px 12px rgba(14, 90, 167, 0.08);
+}
+
+.app-header h2 {
+    margin: 0;
+    font-size: 14px;
+    letter-spacing: 1px;
+}

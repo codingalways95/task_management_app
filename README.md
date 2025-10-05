@@ -44,3 +44,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Steps to run:
+npm install
+npm start
+
+Extra Features Implemented
+- Local storage persistence (tasks survive refresh)
+- Search functionality
+- Collapsible sections with animated expand/collapse
+- Hover effect on task cards (grey background + shadow lift)
